@@ -1,0 +1,20 @@
+[
+	{
+		"id":"julmikblockstb",
+		"file":"Julmik",
+		"gui":{
+			"image": "images/julmik.svg",
+			"name":	"Jul-mik blocks",
+			"discription": "Adds some TurboBuilder blocks, and wait blocks!"
+		}
+	},
+	{
+		"id":"julmikutilitesstb",
+		"file":"julmik_utilities",
+		"gui":{
+			"image": "images/julmik_utilities.svg",
+			"name":	"Jul Mik Utilities",
+			"discription": "An Extension of Blocks Utilities by Jul Mik (V1 and V2 when named Jul Mik Blocks with Turbobuilder) and helped by Aness6040 (Actual v3)"
+		}
+	}
+]
